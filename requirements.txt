@@ -1,0 +1,5 @@
+torch
+librosa
+transformers
+soundfile
+jiwer
